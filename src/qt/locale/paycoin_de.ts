@@ -3,12 +3,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Paycoin</source>
-        <translation>Über Paycoin</translation>
+        <source>About dougcoin</source>
+        <translation>Über dougcoin</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Paycoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Paycoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;dougcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;dougcoin&lt;/b&gt; version</translation>
     </message>
     </context>
 <context>
@@ -18,8 +18,8 @@
         <translation>Adressbuch</translation>
     </message>
     <message>
-        <source>These are your Paycoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dies sind Ihre Paycoin-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
+        <source>These are your dougcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dies sind Ihre dougcoin-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
     </message>
     <message>
         <source>Double-click to edit address or label</source>
@@ -160,14 +160,14 @@
         <translation>Verschlüsselung der Brieftasche fehlgeschlagen</translation>
     </message>
     <message>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PAYCOINS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR dougcoinS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>WARNUNG: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE PAYCOIN VERLIEREN&lt;/b&gt;!
+        <translation>WARNUNG: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE dougcoin VERLIEREN&lt;/b&gt;!
 Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation>
     </message>
     <message>
-        <source>Paycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Paycoins from being stolen by malware infecting your computer.</source>
-        <translation>Paycoin wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl Ihrer Paycoins durch Schadprogramme schützt, die Ihren Computer befällt.</translation>
+        <source>dougcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dougcoins from being stolen by malware infecting your computer.</source>
+        <translation>dougcoin wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl Ihrer dougcoins durch Schadprogramme schützt, die Ihren Computer befällt.</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
@@ -226,7 +226,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <source>&amp;Receive coins</source>
-        <translation>Paycoins &amp;empfangen</translation>
+        <translation>dougcoins &amp;empfangen</translation>
     </message>
     <message>
         <source>Show the list of addresses for receiving payments</source>
@@ -234,7 +234,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <source>&amp;Send coins</source>
-        <translation>Paycoins &amp;überweisen</translation>
+        <translation>dougcoins &amp;überweisen</translation>
     </message>
     <message>
         <source>Prove you control an address</source>
@@ -249,8 +249,8 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
         <translation>Anwendung beenden</translation>
     </message>
     <message>
-        <source>Show information about Paycoin</source>
-        <translation>Informationen über Paycoin anzeigen</translation>
+        <source>Show information about dougcoin</source>
+        <translation>Informationen über dougcoin anzeigen</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -282,7 +282,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <source>Unlock wallet only for minting. Sending coins will still require the passphrase.</source>
-        <translation>Brieftasche nur zum Prägen entsperren. Das Versenden von Paycoins wird weiterhin die Passphrase erfordern. </translation>
+        <translation>Brieftasche nur zum Prägen entsperren. Das Versenden von dougcoins wird weiterhin die Passphrase erfordern. </translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -329,32 +329,32 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
         <translation>Diese Transaktion überschreitet das Größenlimit. Sie können es dennoch für eine Gebühr von %1 senden. Wollen Sie die Gebühr zahlen?</translation>
     </message>
     <message>
-        <source>Paycoin Wallet</source>
-        <translation>Paycoin Brieftasche</translation>
+        <source>dougcoin Wallet</source>
+        <translation>dougcoin Brieftasche</translation>
     </message>
     <message>
-        <source>Send coins to a Paycoin address</source>
-        <translation>Münzen an eine Paycoin-Adresse senden</translation>
+        <source>Send coins to a dougcoin address</source>
+        <translation>Münzen an eine dougcoin-Adresse senden</translation>
     </message>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Nachricht signieren</translation>
     </message>
     <message>
-        <source>&amp;About Paycoin</source>
-        <translation>Über Paycoin</translation>
+        <source>&amp;About dougcoin</source>
+        <translation>Über dougcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Paycoin</source>
-        <translation>Die Konfiguration von Paycoin bearbeiten</translation>
+        <source>Modify configuration options for dougcoin</source>
+        <translation>Die Konfiguration von dougcoin bearbeiten</translation>
     </message>
     <message>
-        <source>Show/Hide &amp;Paycoin</source>
-        <translation>&amp;Paycoin anzeigen/verstecken</translation>
+        <source>Show/Hide &amp;dougcoin</source>
+        <translation>&amp;dougcoin anzeigen/verstecken</translation>
     </message>
     <message>
-        <source>Show or hide the Paycoin window</source>
-        <translation>Zeige oder verstecke das Paycoin Fenster</translation>
+        <source>Show or hide the dougcoin window</source>
+        <translation>Zeige oder verstecke das dougcoin Fenster</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -369,8 +369,8 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
         <translation>Passphrase ändern</translation>
     </message>
     <message>
-        <source>Paycoin client</source>
-        <translation>Paycoin-Client</translation>
+        <source>dougcoin client</source>
+        <translation>dougcoin-Client</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -464,8 +464,8 @@ Adresse: %4</translation>
         <translation>Fehler beim versuch die Brieftaschendaten am neuen Ort zu speichern. </translation>
     </message>
     <message>
-        <source>A fatal error occurred. Paycoin can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler trat auf. Paycoin kann nicht mehr sicher fortfahren und wird sich beenden. </translation>
+        <source>A fatal error occurred. dougcoin can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler trat auf. dougcoin kann nicht mehr sicher fortfahren und wird sich beenden. </translation>
     </message>
     </context>
 <context>
@@ -659,15 +659,15 @@ Adresse: %4</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface, and when sending coins</source>
-        <translation>Wählen Sie die standardmäßige Untereinheit, die in der Benutzeroberfläche und beim Überweisen von Paycoins angezeigt werden soll.</translation>
+        <translation>Wählen Sie die standardmäßige Untereinheit, die in der Benutzeroberfläche und beim Überweisen von dougcoins angezeigt werden soll.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
         <translation>Adressen im Transaktionsverlauf &amp;anzeigen</translation>
     </message>
     <message>
-        <source>Whether to show Paycoin addresses in the transaction list</source>
-        <translation>Legt fest, ob Paycoin-Adressen im Transaktionsverlauf angezeigt werden.</translation>
+        <source>Whether to show dougcoin addresses in the transaction list</source>
+        <translation>Legt fest, ob dougcoin-Adressen im Transaktionsverlauf angezeigt werden.</translation>
     </message>
     <message>
         <source>Display coin control features (experts only!)</source>
@@ -721,8 +721,8 @@ Adresse: %4</translation>
         <translation>Die eingegebene Adresse "%1" befindet sich bereits im Adressbuch.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Paycoin address.</source>
-        <translation>Die eingegebene Adresse "%1" ist keine gültige Paycoin-Adresse.</translation>
+        <source>The entered address "%1" is not a valid dougcoin address.</source>
+        <translation>Die eingegebene Adresse "%1" ist keine gültige dougcoin-Adresse.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -977,15 +977,15 @@ Adresse: %4</translation>
         <translation>Konsole zurücksetzen</translation>
     </message>
     <message>
-        <source>Welcome to the Paycoin RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Willkommen in der Paycoin-RPC-Konsole. &lt;br&gt; Nutze Pfeiltaste hoch und runter, um den Verlauf durchzublättern und &lt;b&gt;Strg-L&lt;/b&gt;, um die Konsole zurückzusetzen. &lt;br&gt;  Bitte &lt;b&gt;help&lt;/b&gt; eingeben, um eine Übersicht verfügbarer Befehle zu erhalten.</translation>
+        <source>Welcome to the dougcoin RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Willkommen in der dougcoin-RPC-Konsole. &lt;br&gt; Nutze Pfeiltaste hoch und runter, um den Verlauf durchzublättern und &lt;b&gt;Strg-L&lt;/b&gt;, um die Konsole zurückzusetzen. &lt;br&gt;  Bitte &lt;b&gt;help&lt;/b&gt; eingeben, um eine Übersicht verfügbarer Befehle zu erhalten.</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Paycoins überweisen</translation>
+        <translation>dougcoins überweisen</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1132,8 +1132,8 @@ Adresse: %4</translation>
         <translation>Der zu zahlende Betrag muss mindestens einen Cent betragen (0.01).</translation>
     </message>
     <message>
-        <source>Warning: Invalid Paycoin address</source>
-        <translation>Warnung: Ungültige Paycoin-Adresse</translation>
+        <source>Warning: Invalid dougcoin address</source>
+        <translation>Warnung: Ungültige dougcoin-Adresse</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1144,8 +1144,8 @@ Adresse: %4</translation>
         <translation>(keine Bezeichnung)</translation>
     </message>
     <message>
-        <source>Enter a Paycoin address</source>
-        <translation>Paycoin-Addresse eingeben</translation>
+        <source>Enter a dougcoin address</source>
+        <translation>dougcoin-Addresse eingeben</translation>
     </message>
     </context>
 <context>
@@ -1242,8 +1242,8 @@ Adresse: %4</translation>
         <translation>Aktuelle Signatur in die Zwischenablage kopieren</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Paycoin address</source>
-        <translation>Die Nachricht signieren, um den Besitz dieser Paycoin-Adresse zu beweisen</translation>
+        <source>Sign the message to prove you own this dougcoin address</source>
+        <translation>Die Nachricht signieren, um den Besitz dieser dougcoin-Adresse zu beweisen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1270,8 +1270,8 @@ Adresse: %4</translation>
         <translation>Die Adresse mit der die Nachricht signiert wurde</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Paycoin address</source>
-        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen Paycoin-Adresse signiert wurde</translation>
+        <source>Verify the message to ensure it was signed with the specified dougcoin address</source>
+        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen dougcoin-Adresse signiert wurde</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1290,8 +1290,8 @@ Adresse: %4</translation>
         <translation>Geben Sie die Signatur der Nachricht ein</translation>
     </message>
     <message>
-        <source>Enter a Paycoin address</source>
-        <translation>Paycoin-Addresse eingeben</translation>
+        <source>Enter a dougcoin address</source>
+        <translation>dougcoin-Addresse eingeben</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -1638,8 +1638,8 @@ Adresse: %4</translation>
         <translation>Verwendung:</translation>
     </message>
     <message>
-        <source>Paycoin version</source>
-        <translation>Paycoin Version</translation>
+        <source>dougcoin version</source>
+        <translation>dougcoin Version</translation>
     </message>
     <message>
         <source>List commands</source>
@@ -1654,20 +1654,20 @@ Adresse: %4</translation>
         <translation>Einstellungen:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: paycoin.conf)</source>
-        <translation>Konfigurations-Datei angeben (Standard: paycoin.conf)</translation>
+        <source>Specify configuration file (default: dougcoin.conf)</source>
+        <translation>Konfigurations-Datei angeben (Standard: dougcoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: paycoind.pid)</source>
-        <translation>PID-Datei angeben (Standard: paycoind.pid)</translation>
+        <source>Specify pid file (default: dougcoind.pid)</source>
+        <translation>PID-Datei angeben (Standard: dougcoind.pid)</translation>
     </message>
     <message>
         <source>Generate coins</source>
-        <translation>Paycoins generieren</translation>
+        <translation>dougcoins generieren</translation>
     </message>
     <message>
         <source>Don't generate coins</source>
-        <translation>Keine Paycoins generieren</translation>
+        <translation>Keine dougcoins generieren</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1810,24 +1810,24 @@ Adresse: %4</translation>
         <translation>Akzeptierte Chiffren (Standard: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s.  Paycoin is probably already running.</source>
-        <translation>Datenverzeichnis %s kann nicht gesperrt werden, da Paycoin wahrscheinlich bereits gestartet wurde.</translation>
+        <source>Cannot obtain a lock on data directory %s.  dougcoin is probably already running.</source>
+        <translation>Datenverzeichnis %s kann nicht gesperrt werden, da dougcoin wahrscheinlich bereits gestartet wurde.</translation>
     </message>
     <message>
-        <source>Paycoin</source>
-        <translation>Paycoin</translation>
+        <source>dougcoin</source>
+        <translation>dougcoin</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Paycoin</source>
-        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von Paycoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dougcoin</source>
+        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von dougcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Paycoin to complete</source>
-        <translation>Brieftasche musste neu geschrieben werden: starten Sie Paycoin zur Fertigstellung neu</translation>
+        <source>Wallet needed to be rewritten: restart dougcoin to complete</source>
+        <translation>Brieftasche musste neu geschrieben werden: starten Sie dougcoin zur Fertigstellung neu</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct.  If your clock is wrong Paycoin will not work properly.</source>
-        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da Paycoin ansonsten nicht ordnungsgemäß funktionieren wird.</translation>
+        <source>Warning: Please check that your computer's date and time are correct.  If your clock is wrong dougcoin will not work properly.</source>
+        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da dougcoin ansonsten nicht ordnungsgemäß funktionieren wird.</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
@@ -1915,7 +1915,7 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Paycoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Paycoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige dougcoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die dougcoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
     <message>
         <source>Invalid amount</source>

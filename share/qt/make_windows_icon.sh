@@ -1,9 +1,9 @@
 #!/bin/bash
 # create multiresolution windows icon
-ICON_SRC=../../src/qt/res/icons/paycoin.png
-ICON_DST=../../src/qt/res/icons/paycoin.ico
-convert ${ICON_SRC} -resize 16x16 paycoin-16.png
-convert ${ICON_SRC} -resize 32x32 paycoin-32.png
-convert ${ICON_SRC} -resize 48x48 paycoin-48.png
-convert paycoin-48.png paycoin-32.png paycoin-16.png ${ICON_DST}
+ICON_SRC=../../src/qt/res/icons/dougcoin.png
+ICON_DST=../../src/qt/res/icons/dougcoin.ico
+convert ${ICON_SRC} -resize 16x16 dougcoin-16.png
+convert ${ICON_SRC} -resize 32x32 dougcoin-32.png
+convert ${ICON_SRC} -resize 48x48 dougcoin-48.png
+convert dougcoin-48.png dougcoin-32.png dougcoin-16.png ${ICON_DST}
 
